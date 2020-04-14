@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeImage", "CompositeImage\CompositeImage.csproj", "{EB5D985F-5605-44AF-AC95-528B3177ED6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5D985F-5605-44AF-AC95-528B3177ED6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5D985F-5605-44AF-AC95-528B3177ED6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5D985F-5605-44AF-AC95-528B3177ED6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5D985F-5605-44AF-AC95-528B3177ED6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2160009-B848-4FEC-A49B-A195BD8084AE}
+	EndGlobalSection
+EndGlobal

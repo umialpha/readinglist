@@ -1,0 +1,3 @@
+D:\gits\readinglist\lang\CompositeImage\CompositeImage\obj\Debug\netcoreapp3.0\CompositeImage.csprojAssemblyReference.cache
+D:\gits\readinglist\lang\CompositeImage\CompositeImage\obj\Debug\netcoreapp3.0\CompositeImage.AssemblyInfoInputs.cache
+D:\gits\readinglist\lang\CompositeImage\CompositeImage\obj\Debug\netcoreapp3.0\CompositeImage.AssemblyInfo.cs

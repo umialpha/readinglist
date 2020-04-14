@@ -1,0 +1,11 @@
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\bin\Debug\netcoreapp3.0\ParallelProgramming.exe
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\bin\Debug\netcoreapp3.0\ParallelProgramming.deps.json
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\bin\Debug\netcoreapp3.0\ParallelProgramming.runtimeconfig.json
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\bin\Debug\netcoreapp3.0\ParallelProgramming.runtimeconfig.dev.json
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\bin\Debug\netcoreapp3.0\ParallelProgramming.dll
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\bin\Debug\netcoreapp3.0\ParallelProgramming.pdb
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\obj\Debug\netcoreapp3.0\ParallelProgramming.csprojAssemblyReference.cache
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\obj\Debug\netcoreapp3.0\ParallelProgramming.AssemblyInfoInputs.cache
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\obj\Debug\netcoreapp3.0\ParallelProgramming.AssemblyInfo.cs
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\obj\Debug\netcoreapp3.0\ParallelProgramming.dll
+D:\gits\readinglist\lang\ParallelProgramming\ParallelProgramming\obj\Debug\netcoreapp3.0\ParallelProgramming.pdb
